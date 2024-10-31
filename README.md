@@ -22,14 +22,6 @@
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-  <a href="https://dev.to/https://dev.to/__4bd753385267e4" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
-      alt="https://dev.to/__4bd753385267e4"
-      height="30"
-      width="40"
-  /></a>
   <a href="https://twitter.com/@ntmua4zjci66141" target="blank"
     ><img
       align="center"
@@ -39,7 +31,7 @@
       width="40"
   /></a>
   <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/deven-wagh-5691b7271/"
+    href="https://linkedin.com/in/deven-wagh-5691b7271/"
     target="blank"
     ><img
       align="center"
@@ -53,14 +45,6 @@
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="wagh_deven"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://dribbble.com/devilw" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg"
-      alt="devilw"
       height="30"
       width="40"
   /></a>
