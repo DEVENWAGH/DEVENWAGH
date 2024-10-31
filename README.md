@@ -1,3 +1,4 @@
+![logo](https://github.com/DEVENWAGH/DEVENWAGH/blob/main/Banner%20Devil.png)
 <h1 align="center">Welcome 👋, I'm DEVEN WAGH</h1>
 <h3 align="center">
   💻 Full-Stack Developer | Problem Solver | Building Digital Solutions for
@@ -16,7 +17,7 @@
   - 👨‍💻 Explore all my projects here: [GITHUB](https://github.com/DEVENWAGH)
   - 💬 Curious about web development or vehicle platforms? Let's chat!
   - 📫 Let's connect! You can reach me via: <a href="mailto:wagh1.2.3.002@gmail.com"> **wagh1.2.3.002@gmail.com**</a>
-  - 📄 Get to know my background and experiences:[https://www.linkedin.com/in/deven-wagh-5691b7271/](https://www.linkedin.com/in/deven-wagh-5691b7271/)
+  - 📄 Get to know my background and experiences: [LinkedIn](https://www.linkedin.com/in/deven-wagh-5691b7271/)
 - ⚡ Fun fact **I’m always on the lookout for the next big thing in tech and automotive innovation!**
 
 <h3 align="left">🔗 Connect with me:</h3>
