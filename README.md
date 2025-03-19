@@ -12,8 +12,8 @@
 </p>
 
 - 🌐Developing Auto Explorer | Transforming How India Explores Cars and Bikes 🚀
-  [Auto Explorer](https://github.com/DEVENWAGH/Auto-Explorer)
-  - 🧑‍💻 I’m looking for help with advanced web scraping techniques and data management. [Auto Explorer](https://github.com/DEVENWAGH/Auto-Explorer)
+  [Auto Explorer](https://github.com/DEVENWAGH/autoexpo)
+  - 🧑‍💻 I’m looking for help with advanced web scraping techniques and data management. [Auto Explorer](https://github.com/DEVENWAGH/autoexpo)
   - 👨‍💻 Explore all my projects here: [GITHUB](https://github.com/DEVENWAGH)
   - 💬 Curious about web development or vehicle platforms? Let's chat!
   - 📫 Let's connect! You can reach me via: <a href="mailto:wagh1.2.3.002@gmail.com"> **wagh1.2.3.002@gmail.com**</a>
@@ -64,7 +64,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://discord.gg/https://discord.com/channels/@me" target="blank"
+  <a href="https://discord.com/channels/deven#8650" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
@@ -128,14 +128,6 @@
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
       alt="figma"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
       width="40"
       height="40"
     />
@@ -252,14 +244,6 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
       alt="redux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
-      alt="selenium"
       width="40"
       height="40"
     />
