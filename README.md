@@ -1,4 +1,4 @@
-![logo](https://github.com/DEVENWAGH/DEVENWAGH/blob/main/Banner%20Devil.png)
+![logo](https://github.com/DEVENWAGH/DEVENWAGH/blob/main/Banner.png)
 <h1 align="center">Welcome 👋, I'm DEVEN WAGH</h1>
 <h3 align="center">
   💻 Full-Stack Developer | Problem Solver | Building Digital Solutions for
