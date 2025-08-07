@@ -1,8 +1,7 @@
 ![logo](https://github.com/DEVENWAGH/DEVENWAGH/blob/main/Banner.png)
 <h1 align="center">Welcome 👋, I'm DEVEN WAGH</h1>
 <h3 align="center">
-  💻 Full-Stack Developer | Problem Solver | Building Digital Solutions for
-  Tomorrow 🚀
+  💻 Full-Stack Developer | Problem Solver | Building Digital Solutions for Tomorrow 🚀
 </h3>
 
 <img align="right" style="padding-right: 20px;" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif" alt="coder">
@@ -11,14 +10,13 @@
   <img src="https://komarev.com/ghpvc/?username=devenwagh&label=Profile%20views&color=0e75b6&style=flat" alt="devenwagh" />
 </p>
 
-- 🌐Developing Auto Explorer | Transforming How India Explores Cars and Bikes 🚀
-  [Auto Explorer](https://github.com/DEVENWAGH/autoexpo)
-  - 🧑‍💻 I’m looking for help with advanced web scraping techniques and data management. [Auto Explorer](https://github.com/DEVENWAGH/autoexpo)
+- 🌐 Building [DSATrek](https://dsatrek.com) | Master DSA, ace interviews, and collaborate with tech community 🚀
+  - 🧑‍💻 I’m looking for help with advanced algorithm visualizations and collaborative coding features. [DSATrek](https://dsatrek.com)
   - 👨‍💻 Explore all my projects here: [GITHUB](https://github.com/DEVENWAGH)
-  - 💬 Curious about web development or vehicle platforms? Let's chat!
+  - 💬 Curious about web development, DSA, or tech platforms? Let's chat!
   - 📫 Let's connect! You can reach me via: <a href="mailto:wagh1.2.3.002@gmail.com"> **wagh1.2.3.002@gmail.com**</a>
-  - 📄 Get to know my background and experiences: [LinkedIn](https://www.linkedin.com/in/deven-wagh-5691b7271/)
-- ⚡ Fun fact **I’m always on the lookout for the next big thing in tech and automotive innovation!**
+  - 📄 Get to know my background and experiences: [Portfolio](https://wagh2k02.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/deven-wagh-5691b7271/)
+- ⚡ Fun fact **I’m always on the lookout for the next big thing in tech and digital innovation!**
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
@@ -73,8 +71,7 @@
       width="40"
   /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
+  <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img
@@ -262,8 +259,6 @@
       alt="typescript"
       width="40"
       height="40"
-    />
-  </a>
 </p>
 
 <p>
@@ -287,5 +282,3 @@
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=devenwagh&"
     alt="devenwagh"
-  />
-</p>
