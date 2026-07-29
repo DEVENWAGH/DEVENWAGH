@@ -5,10 +5,19 @@ __pycache__/
 venv/
 .venv/
 
-# local photo — do NOT commit this
+# local photos — do NOT commit these
 photo.jpg
 photo.jpeg
 photo.png
+image.jpg
+image.jpeg
+image.png
+portrait.jpg
+portrait.jpeg
+portrait.png
+me.jpg
+me.jpeg
+me.png
 
 # rembg model cache
 .u2net/

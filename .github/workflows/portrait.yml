@@ -4,9 +4,9 @@ on:
   workflow_dispatch:
     inputs:
       photo_path:
-        description: "Path to photo in repo (default: photo.jpg)"
+        description: "Path to photo in repo (default: image.png)"
         required: false
-        default: "photo.jpg"
+        default: "image.png"
 
 permissions:
   contents: write

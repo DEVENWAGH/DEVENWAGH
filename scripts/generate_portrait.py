@@ -196,18 +196,25 @@ def build_svg(char_grid):
 
 
 def main():
-    # find photo
+    # find photo — accepts any of these filenames in the repo root
     if len(sys.argv) > 1:
         photo = sys.argv[1]
     else:
-        for ext in ("photo.jpg", "photo.jpeg", "photo.png"):
-            candidate = os.path.join(ROOT, ext)
+        candidates = (
+            "photo.jpg", "photo.jpeg", "photo.png",
+            "image.jpg", "image.jpeg", "image.png",
+            "portrait.jpg", "portrait.jpeg", "portrait.png",
+            "me.jpg", "me.jpeg", "me.png",
+        )
+        for name in candidates:
+            candidate = os.path.join(ROOT, name)
             if os.path.exists(candidate):
                 photo = candidate
                 break
         else:
             sys.exit(
-                "No photo found. Add photo.jpg to the repository root, then run:\n"
+                "No photo found. Add image.png (or photo.jpg / me.jpg) to the "
+                "repository root, then run:\n"
                 "  python scripts/generate_portrait.py"
             )
 
