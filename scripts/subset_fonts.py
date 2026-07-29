@@ -75,7 +75,7 @@ def subset(ttf_path, out_path, text, weight):
         "--no-hinting",
         f"--output-file={out_path}",
     ]
-    print(f"  Subsetting → {os.path.basename(out_path)} ({weight}) …")
+    print(f"  Subsetting -> {os.path.basename(out_path)} ({weight}) ...")
     pyftsubset_main(args)
 
 
