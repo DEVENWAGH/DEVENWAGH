@@ -1,0 +1,48 @@
+name: regenerate portrait
+
+on:
+  workflow_dispatch:
+    inputs:
+      photo_path:
+        description: "Path to photo in repo (default: photo.jpg)"
+        required: false
+        default: "photo.jpg"
+
+permissions:
+  contents: write
+
+jobs:
+  portrait:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install \
+            pillow \
+            numpy \
+            opencv-python-headless \
+            rembg \
+            onnxruntime
+
+      - name: Generate ascii.svg
+        run: python3 scripts/generate_portrait.py "${{ github.event.inputs.photo_path }}"
+
+      - name: Commit if changed
+        run: |
+          if [ -z "$(git status --porcelain -- ascii.svg)" ]; then
+            echo "ascii.svg unchanged — skipping commit."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- ascii.svg
+          git commit -m "portrait: regenerate"
+          git push

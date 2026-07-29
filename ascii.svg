@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="200"
+     viewBox="0 0 460 200" role="img" aria-label="Portrait placeholder">
+  <style>
+    text { font-family: ui-monospace, 'Liberation Mono', monospace;
+           font-size: 12px; fill: #6e7681; }
+    @media (prefers-color-scheme: dark) { text { fill: #c9d1d9; } }
+  </style>
+  <text x="10" y="30">Add photo.jpg to the repository root, then run:</text>
+  <text x="10" y="50">  python scripts/subset_fonts.py</text>
+  <text x="10" y="70">  pip install pillow numpy opencv-python-headless rembg onnxruntime</text>
+  <text x="10" y="90">  python scripts/generate_portrait.py</text>
+  <text x="10" y="120">Or trigger the "regenerate portrait" workflow in GitHub Actions</text>
+  <text x="10" y="140">after uploading photo.jpg to the repo.</text>
+</svg>

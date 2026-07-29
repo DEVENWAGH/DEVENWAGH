@@ -1,0 +1,14 @@
+# Force LF line endings in the repository for consistency
+* text=auto eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.svg text eol=lf
+*.txt text eol=lf
+
+# Binary files
+*.woff2 binary
+*.ttf binary
+*.jpg binary
+*.jpeg binary
+*.png binary
